@@ -112,7 +112,7 @@ function homePage() {
       <section class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Cleto &amp; Botta Advogados</p>
-          <h1>Atenção e dedicação personalizada. Soluções céleres e eficazes.</h1>
+          <h1>Atenção e dedicação personalizada. Soluções rápidas e eficazes.</h1>
           <p class="lead">Assessoria jurídica com atuação integrada, atenção às necessidades de cada cliente e compromisso com a qualidade técnica.</p>
           <div class="button-row"><a class="button" href="/cletoebotta-demonstracao/areas">Explore as áreas de atuação</a><a class="button secondary" href="/cletoebotta-demonstracao/contato">Fale com o escritório</a></div>
         </div>
